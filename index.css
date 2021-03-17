@@ -47,7 +47,9 @@ table {
 	border-spacing: 0;
 }
 
-
+html, body {
+	height: 100%
+}
 
 h1{
     color: blue;
@@ -82,4 +84,14 @@ footer {
 	background-color: #DDB9A3;
 	color: white;
 	padding: 2vw
+}
+
+#cutecircle {
+	border-radius: 50%;
+}
+
+.cutenav {
+	border-radius:  12px;
+	display: inline-block;
+	padding: 5%;
 }
