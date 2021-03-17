@@ -51,9 +51,35 @@ table {
 
 h1{
     color: blue;
-    font-family: Roboto Mono;
+    font-family: Chelsea Market;
+}
+
+p {
+	font-family: Roboto Mono;
+	line-height: 100%
 }
 
 footer {
     background-color: #F9E7DC;
+}
+
+#plan {
+	background-color: #FF764E;
+	color: white;
+}
+
+#learn {
+	background-color: #5ED3EB;
+	color: white;
+}
+
+#get {
+	background-color: #FFCD69;
+	color: white;
+}
+
+#cutepara {
+	background-color: #DDB9A3;
+	color: white;
+	padding: 2vw
 }
